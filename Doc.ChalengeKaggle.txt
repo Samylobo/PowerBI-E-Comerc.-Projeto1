@@ -1,11 +1,57 @@
- Nossa agencia foi convidada a auxiliar uma empresa recém aberta , e em fase de crescimento . 
-  O e- comerc. nos forneceu dados como numero das faturas ,preços unitários , valores de pedidos , quantidades, países , data das faturas , anos e messes , maiores vendas por categoria , menores por categorias e descrições dos produtos . Com essa base de informações a dona da loja nos fez perguntas :
+Samantha Tec - Análista de Dados 
 
-* PODEM ORGANIZAR NOSSOS DADOS ?
-* QUAIS SAO OS PRINCIPAIS INDICADORES FINANCEIROS DA NOSSO E-COMERCE ?
-* QUANTO FATURAMOS ?
-* QUAL NOSSO FLUXO DE COMPRA?
-* QUANTO NOS VENDEMOS NOS ULTIMOS MESSES ?
-* QUANTOS NOSSOS CLIENTES CHEGAM A GASTAR EM MÉDIA ?
-* QUAL PRODUTO VENDE MAIS , VENDE MENOS  ?
-* QUAL HORARIO DE PICOS EM VENDEMOS ? 
+DOCUMENTAÇÃO 
+PROJETO 1 - e-comerc.
+
+Nossa agência de consultoria foi convidada para auxiliar uma nova empresa de e-commerce que está em fase de crescimento acelerado. A proprietária, entusiasmada com o potencial do seu negócio, nos forneceu uma base de dados detalhada contendo números de faturas, preços unitários, valores de pedidos, quantidades, países, datas das faturas, anos e meses, maiores e menores vendas por categoria e descrições dos produtos. Com esses dados em mãos, a dona da loja nos fez algumas perguntas cruciais para entender melhor o desempenho do seu e-commerce.
+
+Organizando os Dados
+Primeiramente, realizamos uma limpeza dos dados para garantir que todas as informações estivessem corretas e organizadas. Transformamos os dados brutos em tabelas claras e compreensíveis, categorizando os produtos, agregando os valores das vendas por mês e organizando as informações por país e categorias de produtos. Utilizando Power BI, criamos visualizações intuitivas que facilitam a análise e compreensão dos dados.
+
+Principais Indicadores Financeiros do E-commerce
+Através da análise dos dados fornecidos, identificamos os seguintes indicadores financeiros cruciais para o e-commerce:
+
+Faturamento Total: O valor total gerado pelas vendas ao longo do período analisado.
+Número de Vendas: A quantidade total de transações realizadas.
+Ticket Médio: A média do valor gasto por cada cliente em suas compras.
+Receita por Categoria: A soma dos valores dos pedidos agrupados por categoria de produto.
+Produto Mais Vendido e Menos Vendido: Os produtos com maior e menor quantidade vendida, respectivamente.
+Melhor e Pior Horário de Venda: Os horários em que ocorrem mais e menos vendas.
+Quanto Faturamos?
+Após analisar os dados, descobrimos que a empresa faturou um total de R$ 59.000,00 nos últimos dois anos de operação. Esse valor é resultado de uma combinação de estratégias de marketing eficientes e uma boa gestão de estoque.
+
+Qual é o Nosso Fluxo de Compra?
+O fluxo de compra foi mapeado desde a entrada do cliente no site até a finalização da compra. Notamos que a maioria dos clientes faz compras pela manhã e à tarde durante a semana, com o pico de compras começando na quarta-feira, seguido de quinta, terça, sexta, domingo e, por fim, segunda-feira, possivelmente aproveitando promoções semanais.
+
+Quanto Vendemos nos Últimos Meses?
+Nos últimos seis meses, as vendas cresceram de forma constante, com um pico significativo em agosto devido às férias escolares e folgas trabalhistas. Aqui está um resumo das vendas mensais:
+
+Janeiro: R$ 33.335
+Fevereiro: R$ 23.920
+Março: R$ 74.001
+Abril: R$ 27.590
+Maio: R$ 36.079
+Junho: R$ 15.926
+Julho: R$ 60.607
+Agosto: R$ 93.813
+Setembro: R$ 55.280
+Outubro: R$ 27.779
+Novembro: R$ 73.583
+Dezembro: R$ 12.996
+Quanto Nossos Clientes Gastam em Média?
+O valor médio gasto por cliente (Ticket Médio) é de R$ 84,74 mil. Isso nos mostra que os clientes estão comprando produtos de valor agregado e estão satisfeitos com as ofertas disponíveis.
+
+Qual Produto Vende Mais e Vende Menos?
+Produto Mais Vendido: "Saco de Presente Vermelho Grande 20 25, Conjunto/2 Toalhas de Chá Retrospot Vermelho (garden - jardim)" foi o produto mais vendido, com um total de 1.4606,00 unidades (32,13%).
+Produto Menos Vendido: "Amarelo Gigante Termômetro de Jardim Coaster" foi o produto menos vendido, com apenas 321 unidades vendidas.
+Qual Horário Vendemos Mais?
+A análise de horário revelou que o pico de vendas ocorre entre 07h, 13h - 14h e às 22h. Este é um horário estratégico, pois muitos clientes estão relaxando após um dia de trabalho e estão mais propensos a fazer compras online. No entanto, a maior totalidade de vendas ocorre no período da manhã, um público que já sabe onde e o que procurar.
+
+Conclusão
+Com estas análises e visualizações, a dona da loja agora possui uma visão clara e detalhada do desempenho do seu e-commerce. Através das nossas recomendações, ela poderá tomar decisões mais informadas para otimizar as estratégias de venda, melhorar o atendimento ao cliente e, consequentemente, aumentar o faturamento. Estamos empolgados em acompanhar o crescimento desta empresa e continuar fornecendo suporte analítico para impulsionar ainda mais seu sucesso.
+
+
+
+
+
+
