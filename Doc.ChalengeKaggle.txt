@@ -1,0 +1,11 @@
+ Nossa agencia foi convidada a auxiliar uma empresa recém aberta , e em fase de crescimento . 
+  O e- comerc. nos forneceu dados como numero das faturas ,preços unitários , valores de pedidos , quantidades, países , data das faturas , anos e messes , maiores vendas por categoria , menores por categorias e descrições dos produtos . Com essa base de informações a dona da loja nos fez perguntas :
+
+* PODEM ORGANIZAR NOSSOS DADOS ?
+* QUAIS SAO OS PRINCIPAIS INDICADORES FINANCEIROS DA NOSSO E-COMERCE ?
+* QUANTO FATURAMOS ?
+* QUAL NOSSO FLUXO DE COMPRA?
+* QUANTO NOS VENDEMOS NOS ULTIMOS MESSES ?
+* QUANTOS NOSSOS CLIENTES CHEGAM A GASTAR EM MÉDIA ?
+* QUAL PRODUTO VENDE MAIS , VENDE MENOS  ?
+* QUAL HORARIO DE PICOS EM VENDEMOS ? 
