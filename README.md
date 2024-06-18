@@ -1,1 +1,3 @@
-# PowerBI-E-Comerc.-Projeto1
+# DASHBOARD POWER BI 
+clik here
+https://app.powerbi.com/view?r=eyJrIjoiODc3N2JlMzgtYjBlNi00ZWI5LWE3ZjUtZjNmZjZiNGE5ODJiIiwidCI6IjdkNmRmZGMyLWZlZjAtNGY0MC1iNDNjLWRhMGE5NWEwMDI4NiJ9
